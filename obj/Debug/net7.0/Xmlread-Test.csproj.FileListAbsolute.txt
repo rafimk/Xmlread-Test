@@ -1,0 +1,7 @@
+D:\POC\Xmlread-Test\obj\Debug\net7.0\Xmlread-Test.csproj.AssemblyReference.cache
+D:\POC\Xmlread-Test\obj\Debug\net7.0\Xmlread-Test.GeneratedMSBuildEditorConfig.editorconfig
+D:\POC\Xmlread-Test\obj\Debug\net7.0\Xmlread-Test.AssemblyInfoInputs.cache
+D:\POC\Xmlread-Test\obj\Debug\net7.0\Xmlread-Test.AssemblyInfo.cs
+D:\POC\Xmlread-Test\obj\Debug\net7.0\Xmlread-Test.csproj.CoreCompileInputs.cache
+D:\POC\Xmlread-Test\obj\Debug\net7.0\Xmlread-Test.MvcApplicationPartsAssemblyInfo.cs
+D:\POC\Xmlread-Test\obj\Debug\net7.0\Xmlread-Test.MvcApplicationPartsAssemblyInfo.cache

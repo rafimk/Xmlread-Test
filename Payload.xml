@@ -1,0 +1,28 @@
+<PutAwayConfirmationMessageRequest>
+    <messageHeader>
+        <msgId>9913</msgId>
+        <msgType>TT</msgType>
+    </messageHeader>
+    <siteDetails>
+        <stroreCode>ABC</stroreCode>
+    </siteDetails>
+    <tuId>ADSFS</tuId>
+    <asnLine>
+        <asnLine>
+            <lineNumber>1</lineNumber>
+            <tuid/>
+            <quantityReceived>1</quantityReceived>
+            <quantityExprected>1</quantityExprected>
+            <attributesValues>
+                <attributesValues>
+                    <name>AS_BIN</name>
+                    <value>2323</value>
+                </attributesValues>
+                <attributesValues>
+                    <name>TYPE</name>
+                    <value>GG</value>
+                </attributesValues>
+            </attributesValues>
+        </asnLine>
+    </asnLine>
+</PutAwayConfirmationMessageRequest>
